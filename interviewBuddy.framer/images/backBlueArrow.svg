@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="30px" viewBox="0 0 15 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CANDIDATE-CUSTOM-ALERT-STATUS" transform="translate(-24.000000, -77.000000)" fill="#4080FF">
+            <g id="Nav-Bar">
+                <path d="M37.7523495,104.809026 L27.0737164,92 L37.7523495,79.1909735 C38.2244276,78.6238964 38.1469285,77.7830723 37.581518,77.3101608 C37.0161075,76.8372493 36.1727834,76.9139151 35.7007053,77.4801589 L24.3099966,91.1445927 C24.1024989,91.39209 24,91.6962533 24,92 C24,92.3041633 24.1024989,92.60791 24.3099966,92.8554073 L35.7007053,106.519841 C36.1727834,107.086085 37.0156909,107.162751 37.581518,106.689839 C38.1485951,106.216094 38.2252609,105.376937 37.7523495,104.809026 L37.7523495,104.809026 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

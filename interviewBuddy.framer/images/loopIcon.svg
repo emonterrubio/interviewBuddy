@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="40px" viewBox="0 0 50 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="INTERVIEW-DETAILS" transform="translate(-27.000000, -321.000000)" fill="#4267B2">
+            <g id="Interview-Details" transform="translate(0.000000, 236.000000)">
+                <path d="M45.5525,91.481875 C47.508125,90.540625 49.68875,90 52,90 C60.27125,90 67,96.72875 67,105 L62,105 L69.5,113.75 L77,105 L72,105 C72,93.954375 63.045625,85 52,85 C48.29125,85 44.823125,86.015625 41.84625,87.775625 L45.5525,91.481875 Z M58.4475,118.518125 C56.4925,119.459375 54.31125,120 52,120 C43.72875,120 37,113.27125 37,105 L42,105 L34.5,96.25 L27,105 L32,105 C32,116.045625 40.954375,125 52,125 C55.70875,125 59.17625,123.984375 62.15375,122.224375 L58.4475,118.518125 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
