@@ -7,30 +7,18 @@ Framer prototype works on Chrome, Firefox and Safari
 <a href="https://framer.cloud/EpWvs" target="_blank">Launch Prototype</a>
 
 ## Description:
-Interviewers at Facebook do not have a way to view detail information about their interviews, the candidates they're interviewing, where they're interviewing or provide any quick written feedback during or after their interviews via mobile.
+Interviewers for engineering roles at Facebook have multiple interviews in one day and do not have a convenient and easy way to view candidate information, interview details or a way to provide quick written feedback during or after their interviews.
 
-## Requirements:
-### Pre-Interview
-• Provide overall loop interview info (Candidate's profile, interview details, Notes to interviewers, General notes, etc)</br>
+## Goals:
+I wanted to validate whether a mobile approach would streamline the interviewer experience and expedite the crucial feedback process while providing interview and candidate insights along with ways to take quick action.
 
-• Interview location details (space view map)
-Point of contact (Recruiter and coordinator profile links)</br>
+• Provide users with prompt and accurate info about candidates (resume, linkedIn)</br>
 
-• Ability to see what other questions have been asked by previous interviewers
+• Provide users with detail info about their upcoming
+ interviews (schedule, loops, location, recruiter notes)</br>
 
-### During-Interview
-• Quick notes section capability</br>
-• Code pics snapshots
+• Provide users with the ability to alert POC about interview and/or candidate status</br>
 
-### Post-interview
-• Ability to provide quick and easy feedback about the candidate (Hiring decision, confidence, questions asked, etc)</br>
+• Encourage users to provide quick notes and candidate feedback</br>
 
-• Access to your notes written during the interview</br>
-
-• Ability to upload code pics if any to the interview feedback tool
-
-## Outcome:
-I iterated on animation timing, refining table view expansion
-
-## APIs Used:
-Highcharts, Mapbox
+• Encourage users to take and upload code pics
