@@ -4,7 +4,7 @@ February 22, 2016
 
 Framer prototype works on Chrome, Firefox and Safari
 
-<a href="https://framer.cloud/EpWvs" target="_blank">Launch Prototype</a>
+<a href="https://framer.cloud/flWlW" target="_blank">Launch Prototype</a>
 
 ## Description:
 Interviewers for engineering roles at Facebook have multiple interviews in one day and do not have a convenient and easy way to view candidate information, interview details or a way to provide quick written feedback during or after their interviews.
